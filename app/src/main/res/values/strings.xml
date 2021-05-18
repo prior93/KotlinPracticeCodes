@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ListOfStreetFood</string>
+        <string-array name="street_food">
+            <item>Hot Dog</item>
+            <item>Burger</item>
+            <item>Sausage</item>
+            <item>Noodles</item>
+            <item>Kebab</item>
+        </string-array>
+
+</resources>
